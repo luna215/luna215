@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently working @QuanMol
+- Senior Software Engineer @QuanMol
 - I write about topics that I can't easily find solutions to [medium](https://medium.com/@paulluna0215)
+- Currently on a journey to build out a [lofi generator](https://github.com/luna215/lofi-generator)
+- Continuously contribute to [Learning Equality](https://github.com/learningequality) and [Mol*](https://github.com/molstar/molstar)
