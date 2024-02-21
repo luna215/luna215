@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Founding Engineer [@SaygeLink](https://github.com/saygelink)
 - Senior Software Engineer [@QuanMol](https://quanmol.com/)
 - Gitlab [@luna_215](https://gitlab.com/luna_215)
 - I write about topics that I can't easily find solutions to [medium](https://medium.com/@paulluna0215)
