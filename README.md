@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Senior Software Engineer [@QuanMol](https://steg.ai/)
+- Senior Software Engineer [@StegAI](https://steg.ai/)
 - Gitlab [@luna_215](https://gitlab.com/luna_215)
 - I write about topics that I can't easily find solutions to [medium](https://medium.com/@paulluna0215)
 - Currently on a journey to build out a [lofi generator](https://github.com/luna215/lofi-generator)
